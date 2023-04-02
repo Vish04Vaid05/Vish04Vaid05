@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwas Kanchan Vaidya</h1>
-<h3 align="center">I am student currently pursuing my BTech in Computer Engineering in National Institute Of Technology, Kurukshetra. I am a hardworking individual, a passionate frontend developer</h3>
+<h3 align="center">I am student currently pursuing my BTech in Computer Engineering at National Institute Of Technology, Kurukshetra. I am a hardworking individual, a passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **React Framework**
 
