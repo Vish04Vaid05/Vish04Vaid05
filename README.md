@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishwas Kanchan Vaidya</h1>
-<h3 align="center">I am student currently pursuing my BTech in Computer Engineering at National Institute Of Technology, Kurukshetra. I am a hardworking individual, a passionate frontend developer</h3>
+<h3 align="center">As a computer science undergraduate with a passion for software engineering, I am driven to learn and grow in this exciting field. My curiosity and problem-solving skills have led me to explore a range of topics, including algorithms, data structures, and programming languages. Through my coursework and projects, I have gained hands-on experience in various programming languages such as Java, Python, and C++. I have also developed a solid understanding of object-oriented programming principles. As I look ahead to my career, I am eager to continue building my skills and expertise in software engineering. I am particularly interested in exploring areas such as machine learning, web development, and software security.
+Overall, I am passionate about software engineering and excited about the opportunities that lie ahead.</h3>
 
 - 🌱 I’m currently learning **React Framework**
 
