@@ -63,13 +63,7 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vish04vaid05/vish04vaid05/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/vish04vaid05/count.svg?"  />
