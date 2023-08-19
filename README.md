@@ -1,4 +1,3 @@
-![image](https://github.com/Vish04Vaid05/Vish04Vaid05/assets/88713929/d478c3c6-c243-4da6-b83d-64235a4b5f6c)
 <h2 align="left">Hi 👋! My name is Vishwas Kanchan Vaidya and I'm a Pre-Final Undergrad Student at NIT Kurukshetra</h2>
 
 ###
