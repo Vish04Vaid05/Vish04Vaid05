@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vishwas Kanchan Vaidya and I'm a Pre-Final Undergrad Student at NIT Kurukshetra</h2>
+<h2 align="left">Hi 👋! My name is Vishwas Kanchan Vaidya and I'm a Final Undergrad Student at NIT Kurukshetra</h2>
 
 # 💫 About Me:
 🔭 I’m currently working on My Personal Portfolio Website<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning SpringBoot
